@@ -1,0 +1,1 @@
+web: gunicorn DJNAGO_PROJECT.wsgi
