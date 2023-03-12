@@ -1,4 +1,4 @@
-# MyDanjoBlogApp
+# MyDjangoBlogApp
 
 The Django Blog App is a fully functional blog built using the Django web framework. It's designed to be simple and easy to use, making it perfect for beginners who want to learn more about web development using Django.
 
